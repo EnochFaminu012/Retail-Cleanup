@@ -15,19 +15,35 @@ The source file contains several notable data quality issues affecting consisten
 
 # Data cleaning process
 Sales Dump
+
 Removed duplicate order ids
+
 Made all values in sale_date to one consistent format
+
 Split customer info into customer_F_Name, customer_L_Name, customer_type, and student_location
+
 For customer_email, some customers are in the database, but for another order their email is not present. 
+
 Changed all values in payment_method to a consistent format 
+
 Changed quantity column to integers only
+
 Changed discount column to integer only
+
 Created a student column to identify students
+
 Added a currency column to distinguish which type of currency (USD or CAD) Changed unit price to integers 
+
 Separated size and weight, and made those columns integers only. Also, made all consistent unit (grams and centimeters) 
+
 Product_Supplier_Master
+
 Changed vendor_phone to one consistent format
+
 Made currency column to differentiate which type of currency (USD or CAD)
+
 Made the cost column all integers
+
 Made list_price column all integers
+
 Made separate columns for weight and size, and made those columns integers only. Also made all values consistent values (grams and centimeters)
