@@ -47,3 +47,26 @@ Made the cost column all integers
 Made list_price column all integers
 
 Made separate columns for weight and size, and made those columns integers only. Also made all values consistent values (grams and centimeters)
+
+# Queries
+Which products generated the highest total sales revenue, by country?
+<img width="618" height="651" alt="image" src="https://github.com/user-attachments/assets/1cf9f4fb-91dd-4712-b443-99376cdfb39e" />
+
+Which employees handled the largest number of orders, and how do their results compare with other employees under the same manager?
+<img width="780" height="790" alt="image" src="https://github.com/user-attachments/assets/00f2df8f-4fa2-4982-ab97-878fc36c7053" />
+
+Which vendors supply products that appear in more than one category?
+<img width="767" height="802" alt="image" src="https://github.com/user-attachments/assets/d216c300-7e1d-450a-ba37-aa83b67a5ff7" />
+
+Which customers generate the highest lifetime value, and what is their average order size?
+<img width="781" height="801" alt="image" src="https://github.com/user-attachments/assets/735639d7-6a62-463c-b2e1-2d133ed230f7" />
+
+Which shipments are associated with the highest-value orders?
+<img width="761" height="790" alt="image" src="https://github.com/user-attachments/assets/26d384e7-75f6-4657-b08a-2c51eec3682f" />
+
+Which products have declining sales trends over time?
+<img width="762" height="776" alt="image" src="https://github.com/user-attachments/assets/e995be31-fe4b-445e-aa30-14b801b67066" />
+
+
+
+
